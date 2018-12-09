@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>James Liu</title>
-    <link>https://jamesliu.github.io/</link>
-    <description>Recent content on James Liu</description>
+    <title>Posts on James Liu</title>
+    <link>https://jamesliu.github.io/posts/</link>
+    <description>Recent content in Posts on James Liu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 09 Dec 2018 14:01:19 -0800</lastBuildDate>
     
-	<atom:link href="https://jamesliu.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jamesliu.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
